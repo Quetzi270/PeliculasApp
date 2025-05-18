@@ -71,20 +71,25 @@ Este proyecto fue desarrollado por:
 La aplicación cuenta con varias pantallas que permiten la navegación entre las diferentes secciones. Algunas de ellas incluyen:
 
 - **Pantalla principal**: Galería de películas destacadas.
--![image](https://github.com/user-attachments/assets/f5a8ed0d-56ba-473a-ae94-41c1b75832a7)
+
+
+![image](https://github.com/user-attachments/assets/f5a8ed0d-56ba-473a-ae94-41c1b75832a7)
 ![image](https://github.com/user-attachments/assets/cf1fe92b-e7ab-4a14-84e0-4426d0715ae0)
 
 - **Pantalla de detalles**: Información detallada de cada película.
-- ![image](https://github.com/user-attachments/assets/57c374a9-fdb3-4d45-9e20-8eabd99af8ba)
-- ![image](https://github.com/user-attachments/assets/a46c157b-2b44-460a-b2d9-5b0f78f72925)
+
+![image](https://github.com/user-attachments/assets/57c374a9-fdb3-4d45-9e20-8eabd99af8ba)
+![image](https://github.com/user-attachments/assets/a46c157b-2b44-460a-b2d9-5b0f78f72925)
 
 - **Pantalla de búsqueda**: Buscar y filtrar películas.
-- ![image](https://github.com/user-attachments/assets/0b341a9f-eaf4-4ff0-bb1e-f03e89de494c)
-- ![image](https://github.com/user-attachments/assets/e9a757a2-b5bb-40d5-9247-07cb1c594948)
+
+![image](https://github.com/user-attachments/assets/0b341a9f-eaf4-4ff0-bb1e-f03e89de494c)
+![image](https://github.com/user-attachments/assets/e9a757a2-b5bb-40d5-9247-07cb1c594948)
 
 - **Pantalla de favoritos**: Listado de películas favoritas por género.
-- ![image](https://github.com/user-attachments/assets/49273596-4060-4721-b10f-830c7d9793a2)
-- ![image](https://github.com/user-attachments/assets/9aa66993-97fe-4786-b4f5-4b1fa946e055)
+  
+![image](https://github.com/user-attachments/assets/49273596-4060-4721-b10f-830c7d9793a2)
+![image](https://github.com/user-attachments/assets/9aa66993-97fe-4786-b4f5-4b1fa946e055)
 
 
 
